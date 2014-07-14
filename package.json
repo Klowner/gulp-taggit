@@ -1,14 +1,19 @@
 {
   "name": "gulp-taggit",
   "description": "Simple semantic version interactions with git tags",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Mark Riedesel",
     "email": "mark@klowner.com",
     "url": "http://klowner.com"
   },
+  "license": "MIT",
   "dependencies": {
     "any-shell-escape": "^0.1.1",
     "semver": "^2.3.1"
+  },
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/Klowner/gulp-taggit"
   }
 }
