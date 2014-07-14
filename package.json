@@ -1,0 +1,14 @@
+{
+  "name": "gulp-taggit",
+  "description": "Simple semantic version interactions with git tags",
+  "version": "0.0.1",
+  "author": {
+    "name": "Mark Riedesel",
+    "email": "mark@klowner.com",
+    "url": "http://klowner.com"
+  },
+  "dependencies": {
+    "any-shell-escape": "^0.1.1",
+    "semver": "^2.3.1"
+  }
+}
