@@ -1,7 +1,7 @@
 {
   "name": "gulp-taggit",
   "description": "Simple semantic version interactions with git tags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Mark Riedesel",
     "email": "mark@klowner.com",
